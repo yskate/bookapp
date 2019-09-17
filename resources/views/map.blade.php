@@ -17,7 +17,7 @@
             </div>
         </form>
     <div class="embed-responsive embed-responsive-4by3">
-        <iframe id='map' src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCZ0u4sB_cestIWjPyuIf3SAqXxp7B1mP0&amp;q={{$place}}'
+        <iframe id='map' src='https://www.google.com/maps/embed/v1/place?key=xxx&amp;q={{$place}}'
         width='100%'
         height='320'
         frameborder='0'>
